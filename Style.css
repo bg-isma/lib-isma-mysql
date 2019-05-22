@@ -1,0 +1,17 @@
+body, html {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(26, 102, 173);
+    padding: 10px 10px ;
+    border-radius: 5px;
+    color: white;
+}
